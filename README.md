@@ -13,7 +13,7 @@
 
 ## Tecnologias
 
-[![Tecnologias](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,html,css,js,bootstrap,git,github)](https://skillicons.dev)
+[![Tecnologias](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,html,css,js,bootstrap,git,github,azure)](https://skillicons.dev)
 
 ---
 
