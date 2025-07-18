@@ -13,7 +13,20 @@
 
 ## Tecnologias
 
-[![Tecnologias](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,html,css,js,bootstrap,git,github,azure)](https://skillicons.dev)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs" height="50"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="50"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" height="50"/>
+  <img src="https://skillicons.dev/icons?i=js" height="50"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=azure" height="50"/>
+</p>
+
 
 ---
 
